@@ -39,8 +39,7 @@ hr {
 }
 
 .business-card .profile-image {
-    width: 150px;
-    height: 160px;
+    width: 50%;
     border: 1px #ffffff solid;
     margin-bottom: 10px;
 }

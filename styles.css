@@ -1,0 +1,73 @@
+body {
+    background-color: #425462;
+    font-family: Arial,sans-serif;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+p {
+    margin: 5px 0;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    background-color: green;
+    height: 1px;
+    margin: 0;
+}
+
+/* business card */
+.business-card {
+    max-width: 350px;
+    margin: 100px auto 0;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    background-color: #25262b;
+    border: 3px solid #ffffff;
+}
+
+.business-card .profile-image {
+    width: 150px;
+    height: 160px;
+    border: 1px #ffffff solid;
+    margin-bottom: 10px;
+}
+
+.business-card .full-name {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.business-card .designation {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.business-card .company {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.business-card .contact {
+    margin: 20px 0;
+}
+
+.business-card .contact p {
+    margin-bottom: 10px;
+}
+
+.business-card .social-media a {
+    margin: 10px 15px;
+}
